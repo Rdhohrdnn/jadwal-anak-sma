@@ -1,0 +1,6 @@
+{
+  "name": "SMA Schedule",
+  "description": "Aplikasi asisten jadwal pelajaran, tugas sekolah, kalender akademik, dan pengingat harian cerdas untuk siswa SMA dengan antarmuka modern, Material Design 3, dan dukungan mode gelap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
